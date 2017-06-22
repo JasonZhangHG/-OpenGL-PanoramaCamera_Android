@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_settings.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_auto.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_auto.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_flash_redeye.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_flash_redeye.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_barcode.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_switchcam_hover.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_switchcam_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_recording_pin.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_recording_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_steadyphoto.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_steadyphoto.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_negative.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_negative.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_iso_400.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_iso_400.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_hdr_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_hdr_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_wb_auto.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_wb_auto.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hud_focus_ring_fail.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\hud_focus_ring_fail.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_sports.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_sports.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hand.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\hand.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_gps.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_gps.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_emboss.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_emboss.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_videofr_30.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_videofr_30.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_burst_10.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_burst_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_videofr_90.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_videofr_90.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_thumb_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\seek_thumb_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_stop_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_stop_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_pano_hover.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_pano_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_camera_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_camera_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_dark.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_iso_auto.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_iso_auto.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_placeholder.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_picsphere_viewfinder.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_picsphere_viewfinder.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_theatre.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_theatre.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_posterize.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_posterize.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_handheld.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_handheld.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_settings_exposurering.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_settings_exposurering.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_iso_100.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_iso_100.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_backlight.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_backlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_gps_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_gps_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_video_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_video_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_document.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_document.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_timer.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_timer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_skintone.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_skintone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_sepia.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_wb_cloudy.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_wb_cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_camera_hover.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_camera_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_enhancing.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_enhancing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_wb_incandescent.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_wb_incandescent.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_timer_minus.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_timer_minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_snow.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_snow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_mono.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_mono.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_picsphere_marker.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_picsphere_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_save.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_neon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_neon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_none.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_none.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_sharpness.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_sharpness.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_hdr.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_hdr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_iso_800.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_iso_800.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pin_widget_active.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_pin_widget_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_photo_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_photo_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_wb_fluorescent.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_wb_fluorescent.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_sunset.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_sunset.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pin_widget_inactive.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_pin_widget_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_iso_1600.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_iso_1600.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_burst_inf.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_burst_inf.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_solarize.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_solarize.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_softskin.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_softskin.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_spotlight.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_spotlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_picsphere_hover.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_picsphere_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_settings_rulethirds.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_settings_rulethirds.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_thumb_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\seek_thumb_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_iso_200.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_iso_200.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_pet.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_pet.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_beach.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_beach.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_flash_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_flash_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_party.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_party.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_pano_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_pano_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_video_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_video_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_burst_15.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_burst_15.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_landscape.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_landscape.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_contrast.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_contrast.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_fireworks.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_fireworks.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_autoexposure_centerweighted.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_autoexposure_centerweighted.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_highsensitivity.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_highsensitivity.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_cling_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_flash_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_flash_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gallery.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_wb_daylight.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_wb_daylight.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_switchcam_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_switchcam_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_cling_normal.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_cling_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_portrait.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_blackboard.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_blackboard.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_retouch.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_retouch.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_autoexposure.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_autoexposure.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_ar.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_ar.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_videofr.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_videofr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_stop_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_stop_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_autoexposure_frameaverage.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_autoexposure_frameaverage.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_timer_plus.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_timer_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_wb_cloudy_daylight.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_wb_cloudy_daylight.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_iso_hjr.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_iso_hjr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_picsphere_undo.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_picsphere_undo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_aqua.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_aqua.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cling.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\cling.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_hdr.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_hdr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_burst_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_burst_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_night.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_night.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_antimotionblur.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_antimotionblur.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hud_exposure_ring.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\hud_exposure_ring.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_sketch.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_sketch.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_flash_auto.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_flash_auto.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_sweepstitch.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_sweepstitch.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_autoexposure_spotmetering.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_autoexposure_spotmetering.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_shutter_photo_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_shutter_photo_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_flash.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_flash.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_candlelight.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_candlelight.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_shutterspeed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_shutterspeed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_videofr_60.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_videofr_60.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_picsphere_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_picsphere_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_asd.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_asd.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_timer_voice.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_timer_voice.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_hdr_aebracket.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_hdr_aebracket.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_settings_resolution.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_settings_resolution.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_hdr_on.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_hdr_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_videofr_120.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_videofr_120.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_effect_whiteboard.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_effect_whiteboard.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_settings_widgets.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_settings_widgets.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_burst.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_burst.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_gps_off.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_gps_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hud_focus_ring_success.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\hud_focus_ring_success.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_iso.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_iso.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_nightportrait.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_nightportrait.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pin_widget_inactive_pressed.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_pin_widget_inactive_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_flash_torch.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_flash_torch.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_dish.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_dish.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_backlightportrait.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_backlightportrait.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_baby.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_baby.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_exposure.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_exposure.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_burst_5.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_burst_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_video_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_video_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_ring_video_hover.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_ring_video_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_scenemode_flowers.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_scenemode_flowers.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_widget_saturation.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_widget_saturation.png"
+    }
+]

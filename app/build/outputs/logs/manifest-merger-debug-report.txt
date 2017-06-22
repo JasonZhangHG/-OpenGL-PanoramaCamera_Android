@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:2:1-84:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:5:5-41
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.2\AndroidManifest.xml:7:5-43
+MERGED from [com.github.piasy:GlideImageLoader:1.2.9] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.piasy\GlideImageLoader\1.2.9\AndroidManifest.xml:31:5-33:41
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.piasy:BigImageViewer:1.2.9] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.piasy\BigImageViewer\1.2.9\AndroidManifest.xml:30:5-32:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.6.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\3.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.bumptech.glide\okhttp3-integration\1.4.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:13:5-81
+MERGED from [com.github.piasy:BigImageViewer:1.2.9] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.piasy\BigImageViewer\1.2.9\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:15:22-77
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:18:19-67
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:20:5-83
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:20:30-80
+application
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:22:5-82:19
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:29:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.bumptech.glide\okhttp3-integration\1.4.0\AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:25:9-36
+	android:largeHeap
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:27:9-33
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:23:9-63
+service#org.cyanogenmod.focal.picsphere.PicSphereRenderingService
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:29:9-93
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:29:18-90
+service#org.cyanogenmod.focal.feats.SoftwareHdrRenderingService
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:30:9-91
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:30:18-88
+activity#org.cyanogenmod.focal.ImageAct
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:32:9-140
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:32:65-138
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:32:19-64
+activity#org.cyanogenmod.focal.CameraActivity
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:34:9-58:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:37:13-45
+	android:launchMode
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:38:13-48
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:36:13-74
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:35:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:45:27-74
+intent-filter#android.intent.category.DEFAULT+android.media.action.STILL_IMAGE_CAMERA+android.media.action.STILL_IMAGE_CAMERA_SECURE
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:48:13-53:29
+action#android.media.action.STILL_IMAGE_CAMERA
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:49:17-82
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:49:25-79
+action#android.media.action.STILL_IMAGE_CAMERA_SECURE
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:50:17-89
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:50:25-86
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:52:27-73
+meta-data#com.android.keyguard.layout
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:55:13-57:62
+	android:resource
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:57:17-59
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:56:17-59
+receiver#org.cyanogenmod.focal.CameraButtonIntentReceiver
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:60:9-64:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:60:19-82
+intent-filter#android.intent.action.CAMERA_BUTTON
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:61:13-63:29
+action#android.intent.action.CAMERA_BUTTON
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:62:25-75
+receiver#org.cyanogenmod.focal.DisableCameraReceiver
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:65:9-69:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:65:19-77
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:66:13-68:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:67:17-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:67:25-76
+receiver#org.cyanogenmod.focal.WidgetProvider
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:70:9-78:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:70:19-70
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:71:13-73:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:72:17-84
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:72:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:75:13-77:55
+	android:resource
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:77:17-52
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:76:17-58
+activity#org.cyanogenmod.focal.TestActivity
+ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:80:9-81:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\PanoramaCamera-master\app\src\main\AndroidManifest.xml:80:19-68
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.github.piasy:BigImageViewer:1.2.9] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.piasy\BigImageViewer\1.2.9\AndroidManifest.xml:34:5-67
+	android:name
+		ADDED from [com.github.piasy:BigImageViewer:1.2.9] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.piasy\BigImageViewer\1.2.9\AndroidManifest.xml:34:22-64
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.bumptech.glide\okhttp3-integration\1.4.0\AndroidManifest.xml:12:9-14:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.bumptech.glide\okhttp3-integration\1.4.0\AndroidManifest.xml:14:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\Desktop\PanoramaCamera-master\app\build\intermediates\exploded-aar\com.github.bumptech.glide\okhttp3-integration\1.4.0\AndroidManifest.xml:13:13-84

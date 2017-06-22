@@ -1,0 +1,1862 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\values-fi\\values-fi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\arrays.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endLine": 14,
+                    "endColumn": 19,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\arrays.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3191,
+                        "endLine": 97,
+                        "endColumn": 19,
+                        "endOffset": 3386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endLine": 28,
+                    "endColumn": 19,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\arrays.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1342,
+                        "endLine": 48,
+                        "endColumn": 19,
+                        "endOffset": 1767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\arrays.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endLine": 34,
+                        "endColumn": 19,
+                        "endOffset": 1337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endLine": 70,
+                    "endColumn": 19,
+                    "endOffset": 2319
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\arrays.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1772,
+                        "endLine": 83,
+                        "endColumn": 19,
+                        "endOffset": 2913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2324,
+                    "endLine": 78,
+                    "endColumn": 19,
+                    "endOffset": 2591
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\arrays.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 2919,
+                        "endLine": 92,
+                        "endColumn": 19,
+                        "endOffset": 3186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2596,
+                    "endColumn": 42,
+                    "endOffset": 2634
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 42,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2639,
+                    "endColumn": 67,
+                    "endOffset": 2702
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1010,
+                        "endColumn": 67,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2707,
+                    "endColumn": 50,
+                    "endOffset": 2753
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1713,
+                        "endColumn": 50,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2758,
+                    "endColumn": 81,
+                    "endOffset": 2835
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1129,
+                        "endColumn": 81,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2840,
+                    "endColumn": 44,
+                    "endOffset": 2880
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 44,
+                        "endOffset": 1804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2885,
+                    "endColumn": 88,
+                    "endOffset": 2969
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1903,
+                        "endColumn": 88,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 2974,
+                    "endColumn": 48,
+                    "endOffset": 3018
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 7139,
+                        "endColumn": 48,
+                        "endOffset": 7183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3023,
+                    "endColumn": 50,
+                    "endOffset": 3069
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 7335,
+                        "endColumn": 50,
+                        "endOffset": 7381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3074,
+                    "endColumn": 48,
+                    "endOffset": 3118
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 7188,
+                        "endColumn": 48,
+                        "endOffset": 7232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3123,
+                    "endColumn": 48,
+                    "endOffset": 3167
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 7237,
+                        "endColumn": 48,
+                        "endOffset": 7281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3172,
+                    "endColumn": 48,
+                    "endOffset": 3216
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 7286,
+                        "endColumn": 48,
+                        "endOffset": 7330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3221,
+                    "endColumn": 59,
+                    "endOffset": 3276
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 7006,
+                        "endColumn": 59,
+                        "endOffset": 7061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3281,
+                    "endColumn": 72,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 7066,
+                        "endColumn": 72,
+                        "endOffset": 7134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 54,
+                    "endOffset": 3404
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 898,
+                        "endColumn": 54,
+                        "endOffset": 948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3409,
+                    "endColumn": 51,
+                    "endOffset": 3456
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2292,
+                        "endColumn": 51,
+                        "endOffset": 2339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3461,
+                    "endColumn": 43,
+                    "endOffset": 3500
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2150,
+                        "endColumn": 43,
+                        "endOffset": 2189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3505,
+                    "endColumn": 52,
+                    "endOffset": 3553
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2239,
+                        "endColumn": 52,
+                        "endOffset": 2287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3558,
+                    "endColumn": 57,
+                    "endOffset": 3611
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2344,
+                        "endColumn": 57,
+                        "endOffset": 2397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3616,
+                    "endColumn": 44,
+                    "endOffset": 3656
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2194,
+                        "endColumn": 44,
+                        "endOffset": 2234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3661,
+                    "endColumn": 71,
+                    "endOffset": 3728
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1464,
+                        "endColumn": 71,
+                        "endOffset": 1531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3733,
+                    "endColumn": 73,
+                    "endOffset": 3802
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1536,
+                        "endColumn": 73,
+                        "endOffset": 1605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3807,
+                    "endColumn": 93,
+                    "endOffset": 3896
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1809,
+                        "endColumn": 93,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3901,
+                    "endColumn": 33,
+                    "endOffset": 3930
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 33,
+                        "endOffset": 1459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3935,
+                    "endColumn": 52,
+                    "endOffset": 3983
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endColumn": 52,
+                        "endOffset": 2145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3988,
+                    "endColumn": 81,
+                    "endOffset": 4065
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4293,
+                        "endColumn": 81,
+                        "endOffset": 4370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4070,
+                    "endColumn": 123,
+                    "endOffset": 4189
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4169,
+                        "endColumn": 123,
+                        "endOffset": 4288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4194,
+                    "endColumn": 94,
+                    "endOffset": 4284
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4510,
+                        "endColumn": 94,
+                        "endOffset": 4600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4289,
+                    "endColumn": 77,
+                    "endOffset": 4362
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4861,
+                        "endColumn": 77,
+                        "endOffset": 4934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4367,
+                    "endColumn": 105,
+                    "endOffset": 4468
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4939,
+                        "endColumn": 105,
+                        "endOffset": 5040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4473,
+                    "endColumn": 84,
+                    "endOffset": 4553
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 5045,
+                        "endColumn": 84,
+                        "endOffset": 5125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4558,
+                    "endColumn": 84,
+                    "endOffset": 4638
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4776,
+                        "endColumn": 84,
+                        "endOffset": 4856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4643,
+                    "endColumn": 82,
+                    "endOffset": 4721
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4605,
+                        "endColumn": 82,
+                        "endOffset": 4683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4726,
+                    "endColumn": 79,
+                    "endOffset": 4801
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4430,
+                        "endColumn": 79,
+                        "endOffset": 4505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4806,
+                    "endColumn": 79,
+                    "endOffset": 4881
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5441,
+                        "endColumn": 79,
+                        "endOffset": 5516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4886,
+                    "endColumn": 78,
+                    "endOffset": 4960
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5362,
+                        "endColumn": 78,
+                        "endOffset": 5436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4965,
+                    "endColumn": 74,
+                    "endOffset": 5035
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5756,
+                        "endColumn": 74,
+                        "endOffset": 5826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5040,
+                    "endColumn": 71,
+                    "endOffset": 5107
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5684,
+                        "endColumn": 71,
+                        "endOffset": 5751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5112,
+                    "endColumn": 83,
+                    "endOffset": 5191
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5600,
+                        "endColumn": 83,
+                        "endOffset": 5679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5196,
+                    "endColumn": 72,
+                    "endOffset": 5264
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 5130,
+                        "endColumn": 72,
+                        "endOffset": 5198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5269,
+                    "endColumn": 78,
+                    "endOffset": 5343
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5521,
+                        "endColumn": 78,
+                        "endOffset": 5595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5348,
+                    "endColumn": 73,
+                    "endOffset": 5417
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5203,
+                        "endColumn": 73,
+                        "endOffset": 5272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5422,
+                    "endColumn": 84,
+                    "endOffset": 5502
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5277,
+                        "endColumn": 84,
+                        "endOffset": 5357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5507,
+                    "endColumn": 87,
+                    "endOffset": 5590
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4688,
+                        "endColumn": 87,
+                        "endOffset": 4771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5595,
+                    "endColumn": 54,
+                    "endOffset": 5645
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4375,
+                        "endColumn": 54,
+                        "endOffset": 4425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5650,
+                    "endColumn": 51,
+                    "endOffset": 5697
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 51,
+                        "endOffset": 2039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5702,
+                    "endColumn": 102,
+                    "endOffset": 5800
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1610,
+                        "endColumn": 102,
+                        "endOffset": 1708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5805,
+                    "endColumn": 50,
+                    "endOffset": 5851
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 50,
+                        "endOffset": 1124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5856,
+                    "endColumn": 52,
+                    "endOffset": 5904
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2044,
+                        "endColumn": 52,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5909,
+                    "endColumn": 189,
+                    "endOffset": 6094
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 6514,
+                        "endColumn": 189,
+                        "endOffset": 6699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6099,
+                    "endColumn": 65,
+                    "endOffset": 6160
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 6448,
+                        "endColumn": 65,
+                        "endOffset": 6509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6165,
+                    "endColumn": 233,
+                    "endOffset": 6394
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 6772,
+                        "endColumn": 233,
+                        "endOffset": 7001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6399,
+                    "endColumn": 67,
+                    "endOffset": 6462
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 6704,
+                        "endColumn": 67,
+                        "endOffset": 6767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6467,
+                    "endColumn": 104,
+                    "endOffset": 6567
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 6142,
+                        "endColumn": 104,
+                        "endOffset": 6242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6572,
+                    "endColumn": 64,
+                    "endOffset": 6632
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 6077,
+                        "endColumn": 64,
+                        "endOffset": 6137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 6637,
+                    "endColumn": 133,
+                    "endOffset": 6766
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6314,
+                        "endColumn": 133,
+                        "endOffset": 6443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6771,
+                    "endColumn": 66,
+                    "endOffset": 6833
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 6247,
+                        "endColumn": 66,
+                        "endOffset": 6309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6838,
+                    "endColumn": 56,
+                    "endOffset": 6890
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 953,
+                        "endColumn": 56,
+                        "endOffset": 1005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6895,
+                    "endColumn": 79,
+                    "endOffset": 6970
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5908,
+                        "endColumn": 79,
+                        "endOffset": 5983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6975,
+                    "endColumn": 88,
+                    "endOffset": 7059
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 5988,
+                        "endColumn": 88,
+                        "endOffset": 6072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 7064,
+                    "endColumn": 76,
+                    "endOffset": 7136
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5831,
+                        "endColumn": 76,
+                        "endOffset": 5903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 7141,
+                    "endColumn": 59,
+                    "endOffset": 7196
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 59,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 7201,
+                    "endColumn": 52,
+                    "endOffset": 7249
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 52,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7254,
+                    "endColumn": 52,
+                    "endOffset": 7302
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 52,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 7307,
+                    "endColumn": 52,
+                    "endOffset": 7355
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1377,
+                        "endColumn": 52,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 7360,
+                    "endColumn": 73,
+                    "endOffset": 7429
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3168,
+                        "endColumn": 73,
+                        "endOffset": 3237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 7434,
+                    "endColumn": 56,
+                    "endOffset": 7486
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3242,
+                        "endColumn": 56,
+                        "endOffset": 3294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 7491,
+                    "endColumn": 71,
+                    "endOffset": 7558
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2402,
+                        "endColumn": 71,
+                        "endOffset": 2469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7563,
+                    "endColumn": 73,
+                    "endOffset": 7632
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2551,
+                        "endColumn": 73,
+                        "endOffset": 2620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7637,
+                    "endColumn": 76,
+                    "endOffset": 7709
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2474,
+                        "endColumn": 76,
+                        "endOffset": 2546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 7714,
+                    "endColumn": 53,
+                    "endOffset": 7763
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3299,
+                        "endColumn": 53,
+                        "endOffset": 3348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 7768,
+                    "endColumn": 61,
+                    "endOffset": 7825
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3353,
+                        "endColumn": 61,
+                        "endOffset": 3410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 7830,
+                    "endColumn": 75,
+                    "endOffset": 7901
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3415,
+                        "endColumn": 75,
+                        "endOffset": 3486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 7906,
+                    "endColumn": 47,
+                    "endOffset": 7949
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3491,
+                        "endColumn": 47,
+                        "endOffset": 3534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7954,
+                    "endColumn": 57,
+                    "endOffset": 8007
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3539,
+                        "endColumn": 57,
+                        "endOffset": 3592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 8012,
+                    "endColumn": 74,
+                    "endOffset": 8082
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2625,
+                        "endColumn": 74,
+                        "endOffset": 2695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 8087,
+                    "endColumn": 51,
+                    "endOffset": 8134
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3597,
+                        "endColumn": 51,
+                        "endOffset": 3644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 8139,
+                    "endColumn": 55,
+                    "endOffset": 8190
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3649,
+                        "endColumn": 55,
+                        "endOffset": 3700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 8195,
+                    "endColumn": 53,
+                    "endOffset": 8244
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3705,
+                        "endColumn": 53,
+                        "endOffset": 3754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 8249,
+                    "endColumn": 82,
+                    "endOffset": 8327
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3015,
+                        "endColumn": 82,
+                        "endOffset": 3093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 8332,
+                    "endColumn": 87,
+                    "endOffset": 8415
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2700,
+                        "endColumn": 87,
+                        "endOffset": 2783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 8420,
+                    "endColumn": 82,
+                    "endOffset": 8498
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2788,
+                        "endColumn": 82,
+                        "endOffset": 2866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 8503,
+                    "endColumn": 75,
+                    "endOffset": 8574
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2939,
+                        "endColumn": 75,
+                        "endOffset": 3010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 8579,
+                    "endColumn": 67,
+                    "endOffset": 8642
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2871,
+                        "endColumn": 67,
+                        "endOffset": 2934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 8647,
+                    "endColumn": 69,
+                    "endOffset": 8712
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3098,
+                        "endColumn": 69,
+                        "endOffset": 3163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 8717,
+                    "endColumn": 64,
+                    "endOffset": 8777
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3759,
+                        "endColumn": 64,
+                        "endOffset": 3819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 8782,
+                    "endColumn": 60,
+                    "endOffset": 8838
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3824,
+                        "endColumn": 60,
+                        "endOffset": 3880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8843,
+                    "endColumn": 50,
+                    "endOffset": 8889
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3885,
+                        "endColumn": 50,
+                        "endOffset": 3931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 8894,
+                    "endColumn": 52,
+                    "endOffset": 8942
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3936,
+                        "endColumn": 52,
+                        "endOffset": 3984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 8947,
+                    "endColumn": 62,
+                    "endOffset": 9005
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3989,
+                        "endColumn": 62,
+                        "endOffset": 4047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 9010,
+                    "endColumn": 53,
+                    "endOffset": 9059
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4052,
+                        "endColumn": 53,
+                        "endOffset": 4101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 9064,
+                    "endColumn": 62,
+                    "endOffset": 9122
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\values-fi\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4106,
+                        "endColumn": 62,
+                        "endOffset": 4164
+                    }
+                }
+            }
+        ]
+    }
+]

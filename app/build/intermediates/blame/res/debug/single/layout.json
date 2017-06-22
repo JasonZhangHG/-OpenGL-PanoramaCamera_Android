@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showcase_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\layout\\showcase_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyguard_widget.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\layout\\keyguard_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\handy.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\layout\\handy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_big_img.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\layout\\activity_big_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_glide_thumbnail.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\exploded-aar\\com.github.piasy\\GlideImageLoader\\1.2.9\\res\\layout\\ui_glide_thumbnail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_container.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\layout\\widget_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    }
+]

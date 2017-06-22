@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\review_drawer_button.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable\\review_drawer_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter_photo.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable\\btn_shutter_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter_video.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable\\btn_shutter_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cling_button_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable\\cling_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pin_widget_inactive.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable\\btn_pin_widget_inactive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shutter_stop.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable\\btn_shutter_stop.xml"
+    }
+]

@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+
+
+    defaultConfig {
+        applicationId "fr.xplod.focal"
+        minSdkVersion 16
+        targetSdkVersion 18
+
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
+        }
+    }
+
+    sourceSets {
+//        main {
+//            jniLibs.srcDirs = ['src/main/libs']
+//            jni.srcDirs = []
+//        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/metadata-extractor-2.6.4.jar')
+    compile files('libs/xmpcore.jar')
+    compile files('libs/apache-httpcomponents-httpcore.jar')
+    compile 'com.android.support:support-v4:24.2.0'
+    compile 'com.getkeepsafe.relinker:relinker:1.2.2'
+    compile 'com.github.piasy:GlideImageLoader:1.2.9'
+}

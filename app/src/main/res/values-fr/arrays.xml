@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The CyanogenMod Project
+
+     This program is free software; you can redistribute it and/or
+     modify it under the terms of the GNU General Public License
+     as published by the Free Software Foundation; either version 2
+     of the License, or (at your option) any later version.
+
+     This program is distributed in the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License
+     along with this program; if not, write to the Free Software
+     Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+     MA  02110-1301, USA.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="transformer_timer_voice_words">
+        <item>ouistiti</item>
+        <item>civ</item>
+        <item>whisky</item>
+        <item>whiskey</item>
+        <item>cheese</item>
+        <item>cerise</item>
+        <item>ok cid, prend une photo</item>
+    </string-array>
+    <string-array name="widget_flash_hints">
+        <item>Automatique</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+        <item>Flash</item>
+        <item>Yeux rouges</item>
+    </string-array>
+    <string-array name="widget_effects_hints">
+        <item>Désactivé</item>
+        <item>Noir \u0026 blanc</item>
+        <item>Negatif</item>
+        <item>Solariser</item>
+        <item>Sépia</item>
+        <item>Postérisé</item>
+        <item>Tableau noir</item>
+        <item>Tableau blanc</item>
+        <item>Eau</item>
+        <item>Embossage</item>
+        <item>Croquis</item>
+        <item>Néon</item>
+    </string-array>
+    <string-array name="widget_scenemode_hints">
+        <item>Automatique</item>
+        <item>Réduction du flou de mouvement</item>
+        <item>Réalité augmentée</item>
+        <item>Meilleure prise</item>
+        <item>Bébé</item>
+        <item>Rétroéclairé</item>
+        <item>Portrait rétroéclairé</item>
+        <item>Code barre</item>
+        <item>Plage</item>
+        <item>Bougie</item>
+        <item>Foncé</item>
+        <item>Délavé</item>
+        <item>Document</item>
+        <item>Feux d\'artifice</item>
+        <item>Fleurs</item>
+        <item>Crépuscule</item>
+        <item>HDR</item>
+        <item>Haute sensibilité</item>
+        <item>Paysage</item>
+        <item>Nuit</item>
+        <item>Portrait de nuit</item>
+        <item>Portrait de nuit</item>
+        <item>Partie</item>
+        <item>Animal</item>
+        <item>Portrait</item>
+        <item>Neige</item>
+        <item>Peau douce</item>
+        <item>Sports</item>
+        <item>Projecteur</item>
+        <item>Photo stable</item>
+        <item>Coucher de soleil</item>
+        <item>Point de balayage</item>
+        <item>Théâtre</item>
+    </string-array>
+    <string-array name="widget_whitebalance_hints">
+        <item>Automatique</item>
+        <item>Nuageux</item>
+        <item>Incandescent</item>
+        <item>Fluorescent</item>
+        <item>Lumière du jour</item>
+        <item>Lumière du jour nuageux</item>
+    </string-array>
+    <string-array name="widget_autoexposure_hints">
+        <item>Cadre moyen</item>
+        <item>Pondéré au centre</item>
+        <item>Mesure du spot</item>
+    </string-array>
+</resources>

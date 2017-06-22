@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BigImageView"><attr format="enum" name="initScaleType">
+            <enum name="centerInside" value="1"/>
+            <enum name="centerCrop" value="2"/>
+            <enum name="auto" value="3"/>
+        </attr><attr format="boolean" name="optimizeDisplay"/></declare-styleable>
+</resources>

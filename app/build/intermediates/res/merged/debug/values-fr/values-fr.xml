@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformer_timer_voice_words">
+        <item>ouistiti</item>
+        <item>civ</item>
+        <item>whisky</item>
+        <item>whiskey</item>
+        <item>cheese</item>
+        <item>cerise</item>
+        <item>ok cid, prend une photo</item>
+    </string-array>
+    <string-array name="widget_autoexposure_hints">
+        <item>Cadre moyen</item>
+        <item>Pondéré au centre</item>
+        <item>Mesure du spot</item>
+    </string-array>
+    <string-array name="widget_effects_hints">
+        <item>Désactivé</item>
+        <item>Noir \u0026 blanc</item>
+        <item>Negatif</item>
+        <item>Solariser</item>
+        <item>Sépia</item>
+        <item>Postérisé</item>
+        <item>Tableau noir</item>
+        <item>Tableau blanc</item>
+        <item>Eau</item>
+        <item>Embossage</item>
+        <item>Croquis</item>
+        <item>Néon</item>
+    </string-array>
+    <string-array name="widget_flash_hints">
+        <item>Automatique</item>
+        <item>Désactivé</item>
+        <item>Activé</item>
+        <item>Flash</item>
+        <item>Yeux rouges</item>
+    </string-array>
+    <string-array name="widget_scenemode_hints">
+        <item>Automatique</item>
+        <item>Réduction du flou de mouvement</item>
+        <item>Réalité augmentée</item>
+        <item>Meilleure prise</item>
+        <item>Bébé</item>
+        <item>Rétroéclairé</item>
+        <item>Portrait rétroéclairé</item>
+        <item>Code barre</item>
+        <item>Plage</item>
+        <item>Bougie</item>
+        <item>Foncé</item>
+        <item>Délavé</item>
+        <item>Document</item>
+        <item>Feux d\'artifice</item>
+        <item>Fleurs</item>
+        <item>Crépuscule</item>
+        <item>HDR</item>
+        <item>Haute sensibilité</item>
+        <item>Paysage</item>
+        <item>Nuit</item>
+        <item>Portrait de nuit</item>
+        <item>Portrait de nuit</item>
+        <item>Partie</item>
+        <item>Animal</item>
+        <item>Portrait</item>
+        <item>Neige</item>
+        <item>Peau douce</item>
+        <item>Sports</item>
+        <item>Projecteur</item>
+        <item>Photo stable</item>
+        <item>Coucher de soleil</item>
+        <item>Point de balayage</item>
+        <item>Théâtre</item>
+    </string-array>
+    <string-array name="widget_whitebalance_hints">
+        <item>Automatique</item>
+        <item>Nuageux</item>
+        <item>Incandescent</item>
+        <item>Fluorescent</item>
+        <item>Lumière du jour</item>
+        <item>Lumière du jour nuageux</item>
+    </string-array>
+    <string name="app_name">Focal</string>
+    <string name="cannot_connect_hal">Impossible de lancer l\'appareil photo</string>
+    <string name="disabled">Désactivé</string>
+    <string name="double_tap_to_snapshot">Tapez deux fois pour prendre une photo</string>
+    <string name="enabled">Activé</string>
+    <string name="fullscreen_shutter_info">Appuyez n\'importe où pour capturer</string>
+    <string name="iso_hint_100">ISO 100</string>
+    <string name="iso_hint_1600">ISO 1600</string>
+    <string name="iso_hint_200">ISO 200</string>
+    <string name="iso_hint_400">ISO 400</string>
+    <string name="iso_hint_800">ISO 800</string>
+    <string name="iso_hint_auto">ISO automatique</string>
+    <string name="iso_hint_hjr">ISO réduction du tremblement</string>
+    <string name="launch_app">Lancer Focal</string>
+    <string name="mode_panorama">Panorama</string>
+    <string name="mode_photo">Photo</string>
+    <string name="mode_picsphere">PicSphere</string>
+    <string name="mode_switchcam">Direction</string>
+    <string name="mode_video">Vidéo</string>
+    <string name="no_gles20_support">Votre appareil n\'est pas\ncompatible OpenGLES 2.0</string>
+    <string name="no_gyroscope">Votre appareil n\'a pas de gyroscope</string>
+    <string name="no_video_player">Impossible de lire la vidéo</string>
+    <string name="ok">OK</string>
+    <string name="open_in_gallery">GALERIE</string>
+    <string name="pano_panorama_rendering">Rendu du panorama\u2026</string>
+    <string name="pano_panorama_rendering_failed">Le rendu a échoué.\nEssayez de prendre un panorama plus étroit.</string>
+    <string name="picsphere_already_rendering">Veuillez attendre la fin du rendu\nde la sphère précédente</string>
+    <string name="picsphere_failed">Rendu de la PicSphere échoué</string>
+    <string name="picsphere_failed_details">Les images ne doivent se superposer que sur les bords.</string>
+    <string name="picsphere_need_two_pics">Deux images minimum sont requises.</string>
+    <string name="picsphere_notif_title">Rendu de la PicSphere\u2026</string>
+    <string name="picsphere_rendering_progress">Rendu en cours\u2026 (%d %%)</string>
+    <string name="picsphere_start_hint">Prenez une photo pour commencer</string>
+    <string name="picsphere_step_autooptimiser">Alignement des images\u2026</string>
+    <string name="picsphere_step_cpfind">Recherche des points de contrôle\u2026</string>
+    <string name="picsphere_step_enblend">Finalisation de l\'image\u2026</string>
+    <string name="picsphere_step_nona">Déformation des images\u2026</string>
+    <string name="picsphere_step_panomodify">Rognage des coins\u2026</string>
+    <string name="picsphere_step_preparing">Préparation\u2026</string>
+    <string name="picsphere_step_ptclean">Nettoyage des points\u2026</string>
+    <string name="picsphere_step_ptogen">Génération des métadonnées\u2026</string>
+    <string name="picsphere_step_ptovar">Écriture de l\'orientation de l\'appareil photo\u2026</string>
+    <string name="picsphere_toast_background_render">Rendu de la PicSphere\u2026</string>
+    <string name="picsphere_undo_button">ANNULER</string>
+    <string name="please_wait">Veuillez patienter\u2026</string>
+    <string name="ps_long_press_to_stop">Maintenez appuyé le déclencheur\npour terminer la sphère.</string>
+    <string name="recording">Enregistrement</string>
+    <string name="retouch">RETOUCHER</string>
+    <string name="showcase_panorama_body">Appuyez sur le déclencheur pour démarrer,\npuis orientez simplement le téléphone.\nUne fois fini, appuyez de nouveau sur le déclencheur.</string>
+    <string name="showcase_panorama_title">Mode Panorama</string>
+    <string name="showcase_picsphere_body">Prenez la première photo où vous le souhaitez,\npuis chaque photo de votre sphère.\nVous pouvez utiliser les points bleus\ncomme point de repère idéal.\nMaintenez appuyé le déclencheur pour finir.</string>
+    <string name="showcase_picsphere_title">Mode PicSphere</string>
+    <string name="showcase_welcome_1_body">Les paramètres sont situés dans la\nbarre latérale.</string>
+    <string name="showcase_welcome_1_title">Bienvenue\u00A0!</string>
+    <string name="showcase_welcome_2_body">Appuyez sur le déclencheur pour\nprendre une photo.\nFaites-le glisser pour changer de mode.</string>
+    <string name="showcase_welcome_2_title">Déclencheur</string>
+    <string name="shutter_button">Déclencheur</string>
+    <string name="software_hdr_failed">Échec du rendu HDR</string>
+    <string name="software_hdr_failed_details">Les images originales ont été conservées.</string>
+    <string name="software_hdr_notif_title">Rendu HDR en cours\u2026</string>
+    <string name="video_res_1080p">Full HD (1080p)</string>
+    <string name="video_res_480p">SD (480p)</string>
+    <string name="video_res_720p">HD (720p)</string>
+    <string name="video_res_mms">MMS (288p)</string>
+    <string name="widget_autoexposure">Mode de mesure d\'exposition</string>
+    <string name="widget_burstmode">Mode rafale</string>
+    <string name="widget_burstmode_count_shots">Rafale de %d images</string>
+    <string name="widget_burstmode_infinite">Rafale infinie</string>
+    <string name="widget_burstmode_off">Sans mode rafale</string>
+    <string name="widget_effect">Effets de couleur</string>
+    <string name="widget_enhancements">Réglage des couleurs</string>
+    <string name="widget_exposure_compensation">Exposition</string>
+    <string name="widget_flash">Mode de flash</string>
+    <string name="widget_hdr">High Dynamic Range</string>
+    <string name="widget_hdr_aebracket">Bracketing automatique</string>
+    <string name="widget_iso">Sensibilité ISO</string>
+    <string name="widget_scenemode">Mode scène</string>
+    <string name="widget_settings">Paramètres</string>
+    <string name="widget_settings_autoenhance">Auto-amélioration</string>
+    <string name="widget_settings_choose_widgets">Widgets à afficher</string>
+    <string name="widget_settings_choose_widgets_button">Widgets à afficher</string>
+    <string name="widget_settings_exposure_ring">Bague d\'exposition</string>
+    <string name="widget_settings_picture_size">Taille de l\'image</string>
+    <string name="widget_settings_ruleofthirds">Règle de trois</string>
+    <string name="widget_shutter_speed">Vitesse d\'obturation</string>
+    <string name="widget_skintone">Amélioration de la peau</string>
+    <string name="widget_softwarehdr">High Dynamic Range</string>
+    <string name="widget_timermode">Retardateur</string>
+    <string name="widget_videofr">Vitesse vidéo</string>
+    <string name="widget_videohdr">Vidéo High Dynamic Range</string>
+    <string name="widget_whitebalance">Balance des blancs</string>
+</resources>

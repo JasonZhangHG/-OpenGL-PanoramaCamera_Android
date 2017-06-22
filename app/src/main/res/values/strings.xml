@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+    <string name="app_name">全景相机</string>
+    <string name="launch_app">Launch Focal</string>
+    <string name="shutter_button">Shutter button</string>
+    <string name="cannot_connect_hal">Unable to connect to camera</string>
+    <string name="recording">Recording</string>
+    <string name="double_tap_to_snapshot">Double-tap to take a picture</string>
+    <string name="video_res_1080p">Full HD (1080p)</string>
+    <string name="video_res_720p">HD (720p)</string>
+    <string name="video_res_480p">SD (480p)</string>
+    <string name="video_res_mms">MMS (288p)</string>
+    <string name="ok">OK</string>
+    <string name="no_gles20_support">Your device doesn\'t support GLES2</string>
+    <string name="no_gyroscope">Your device doesn\'t have a gyroscope</string>
+    <string name="ps_long_press_to_stop">Long-press the shutter button to\nfinish your sphere.</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="no_video_player">Couldn\'t play the video, no player found</string>
+    <string name="fullscreen_shutter_info">Tap anywhere to shoot</string>
+    <string name="please_wait">Please wait\u2026</string>
+    <string name="retouch">RETOUCH</string>
+    <string name="open_in_gallery">GALLERY</string>
+
+    <string name="mode_photo">Photo</string>
+    <string name="mode_video">Video</string>
+    <string name="mode_picsphere">PicSphere</string>
+    <string name="mode_panorama">Panorama</string>
+    <string name="mode_switchcam">Facing</string>
+
+    <!-- Widgets hints for non-arrayed widgets -->
+    <string name="widget_burstmode_count_shots">Burst %d shots</string>
+    <string name="widget_burstmode_off">Disable burst mode</string>
+    <string name="widget_burstmode_infinite">Infinite burst</string>
+
+    <string name="widget_hdr_aebracket">Auto bracketing</string>
+
+    <string name="widget_settings_choose_widgets">Choose widgets in the sidebar</string>
+    <string name="widget_settings_choose_widgets_button">Choose widgets</string>
+    <string name="widget_settings_picture_size">Image size</string>
+    <string name="widget_settings_exposure_ring">Show exposure ring</string>
+    <string name="widget_settings_autoenhance">Auto-enhancement</string>
+    <string name="widget_settings_ruleofthirds">Rule of Thirds</string>
+
+    <string name="widget_autoexposure">Light measure</string>
+    <string name="widget_burstmode">Burst mode</string>
+    <string name="widget_effect">Effects</string>
+    <string name="widget_enhancements">Color adjust.</string>
+    <string name="widget_exposure_compensation">Exposure comp.</string>
+    <string name="widget_flash">Flash</string>
+    <string name="widget_hdr">High Dynamic Range</string>
+    <string name="widget_iso">ISO</string>
+    <string name="widget_scenemode">Scene mode</string>
+    <string name="widget_settings">Settings</string>
+    <string name="widget_shutter_speed">Shutter speed</string>
+    <string name="widget_skintone">Skin Tone Enhancement</string>
+    <string name="widget_softwarehdr">High Dynamic Range</string>
+    <string name="widget_timermode">Timer mode</string>
+    <string name="widget_videofr">Video framerate</string>
+    <string name="widget_videohdr">Video High Dynamic Range</string>
+    <string name="widget_whitebalance">White balance</string>
+
+    <!-- Panorama mode -->
+    <!-- Filename prefix for panorama output -->
+    <string name="pano_file_name_format" translatable="false">"'PANO'_yyyyMMdd_HHmmss"</string>
+
+    <string name="pano_panorama_rendering_failed">Failed to render panorama.\nTry to take a shorter one.</string>
+    <string name="pano_panorama_rendering">正在合成全景图片\u2026</string>
+
+    <!-- PicSphere status -->
+    <string name="picsphere_undo_button">UNDO</string>
+    <string name="picsphere_start_hint">Take a picture to start a sphere</string>
+    <string name="picsphere_already_rendering">Please wait for the current PicSphere to render</string>
+    <string name="picsphere_rendering_progress">Rendering\u2026 (%d %%)</string>
+    <string name="picsphere_toast_background_render">Rendering started\u2026</string>
+    <string name="picsphere_notif_title">Rendering PicSphere\u2026</string>
+    <string name="picsphere_failed">PicSphere rendering failed</string>
+    <string name="picsphere_failed_details">Make sure pictures only overlap on their edges.</string>
+    <string name="picsphere_need_two_pics">You need at least two pictures.</string>
+    <string name="picsphere_step_preparing">Preparing\u2026</string>
+    <string name="picsphere_step_ptogen">Generating metadata\u2026</string>
+    <string name="picsphere_step_ptovar">Writing camera orientation\u2026</string>
+    <string name="picsphere_step_cpfind">Finding control points\u2026</string>
+    <string name="picsphere_step_autooptimiser">Aligning images\u2026</string>
+    <string name="picsphere_step_ptclean">Cleaning points\u2026</string>
+    <string name="picsphere_step_panomodify">Cropping empty areas\u2026</string>
+    <string name="picsphere_step_nona">Stitching pictures\u2026</string>
+    <string name="picsphere_step_enblend">Blending pictures\u2026</string>
+
+    <!-- Software HDR status -->
+    <string name="software_hdr_notif_title">Computing HDR picture\u2026</string>
+    <string name="software_hdr_failed">HDR rendering failed</string>
+    <string name="software_hdr_failed_details">The source pictures have been kept.</string>
+
+    <!-- Showcase text -->
+    <string name="showcase_welcome_1_title">Welcome!</string>
+    <string name="showcase_welcome_1_body">The options are in the sidebar,\njust slide it.</string>
+    <string name="showcase_welcome_2_title">Shutter button</string>
+    <string name="showcase_welcome_2_body">Tap the shutter button to take a picture.\nSlide it to access other capture modes.</string>
+    <string name="showcase_panorama_title">Panorama mode</string>
+    <string name="showcase_panorama_body">Tap the shutter to start your panorama,\nthen pan what you want to capture.\nOnce done, tap the shutter button again.</string>
+    <string name="showcase_picsphere_title">PicSphere mode</string>
+    <string name="showcase_picsphere_body">Align your first picture where you like,\nthen tap the shutter to take each picture\nof the sphere. The blue dots are points\nof reference you can follow.\nLong-press the shutter once you\'re done.</string>
+
+    <!-- ISO Value Hints -->
+    <string name="iso_hint_auto">Automatic ISO</string>
+    <string name="iso_hint_hjr">Hands-Jitter Reduction ISO</string>
+    <string name="iso_hint_100">100 ISO</string>
+    <string name="iso_hint_200">200 ISO</string>
+    <string name="iso_hint_400">400 ISO</string>
+    <string name="iso_hint_800">800 ISO</string>
+    <string name="iso_hint_1600">1600 ISO</string>
+</resources>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/camera_app_root"
+             xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+>
+
+    <FrameLayout
+        android:id="@+id/gl_renderer_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </FrameLayout>
+
+    <org.cyanogenmod.focal.ui.RuleOfThirds
+        android:id="@+id/rule_of_thirds"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
+
+    <org.cyanogenmod.focal.ui.PreviewFrameLayout
+        android:id="@+id/camera_preview_overlay_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/camera_preview_overlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:alpha="0.0"
+            android:scaleType="fitXY"/>
+
+    </org.cyanogenmod.focal.ui.PreviewFrameLayout>
+
+    <LinearLayout
+        android:id="@+id/recording_timer_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="16dp"
+        android:background="#88000000"
+        android:padding="4dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/recording_pin_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/recording"
+            android:src="@drawable/ic_recording_pin"/>
+
+        <TextView
+            android:id="@+id/recording_timer_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="8dp"/>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/hud_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <org.cyanogenmod.focal.ui.FocusHudRing
+            android:id="@+id/hud_ring_focus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"/>
+
+        <org.cyanogenmod.focal.ui.ExposureHudRing
+            android:id="@+id/hud_ring_exposure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:translationX="120dp"
+            android:visibility="gone"/>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/shortcuts_container"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="left|bottom"
+        android:gravity="bottom"
+        android:orientation="vertical">
+    </LinearLayout>
+
+    <!--<org.cyanogenmod.focal.ui.SideBar-->
+    <!--android:id="@+id/sidebar_scroller"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_gravity="left"-->
+    <!--android:layout_marginTop="32dp"-->
+    <!--android:layout_marginBottom="32dp">-->
+
+    <!--<LinearLayout-->
+    <!--android:id="@+id/sidebar_container"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical">-->
+
+    <!--</LinearLayout>-->
+
+    <!--</org.cyanogenmod.focal.ui.SideBar>-->
+
+    <org.cyanogenmod.focal.ui.WidgetRenderer
+        android:id="@+id/widgets_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:layout_marginBottom="64dp"
+        android:layout_marginLeft="48dp"
+        android:orientation="horizontal">
+
+    </org.cyanogenmod.focal.ui.WidgetRenderer>
+
+    <org.cyanogenmod.focal.ui.CircleTimerView
+        android:id="@+id/timer_view"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_gravity="right"
+        android:layout_margin="2dp"/>
+
+    <org.cyanogenmod.focal.ui.SavePinger
+        android:id="@+id/save_pinger"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="right"
+        android:layout_margin="2dp"/>
+
+    <org.cyanogenmod.focal.ui.PanoProgressBar
+        android:id="@+id/panorama_progress_bar"
+        android:layout_width="128dp"
+        android:layout_height="32dp"
+        android:layout_gravity="right|top"
+        android:layout_marginRight="72dp"
+        android:layout_marginTop="8dp"
+        android:visibility="gone"/>
+
+    <FrameLayout
+        android:id="@+id/thumb_flinger_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:id="@+id/shutter_button_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--<ImageView-->
+        <!--android:id="@+id/btn_set"-->
+        <!--android:layout_width="50dp"-->
+        <!--android:layout_height="50dp"-->
+        <!--android:padding="5dp"-->
+        <!--android:onClick="setClick"-->
+        <!--android:layout_margin="3dp"-->
+        <!--android:layout_gravity="left|bottom"-->
+        <!--android:clickable="true"-->
+        <!--android:contentDescription="@string/shutter_button"-->
+        <!--android:src="@drawable/set" />-->
+
+        <ImageView
+            android:id="@+id/btn_pic"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right|bottom"
+            android:layout_margin="3dp"
+            android:clickable="true"
+            android:contentDescription="@string/shutter_button"
+            android:onClick="picClick"
+            android:padding="5dp"
+            android:src="@drawable/pic"/>
+
+        <org.cyanogenmod.focal.ui.SwitchRingPad
+            android:id="@+id/switch_ring_pad"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal|bottom"
+            android:visibility="visible"/>
+
+        <org.cyanogenmod.focal.ui.ShutterButton
+            android:id="@+id/btn_shutter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginBottom="-24dp"
+            android:clickable="true"
+            android:contentDescription="@string/shutter_button"
+            android:src="@drawable/btn_shutter_photo"/>
+
+        <org.cyanogenmod.focal.ui.Notifier
+            android:id="@+id/notifier_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|top"
+            android:layout_margin="8dp"
+            android:alpha="0"
+            android:background="#99333333"
+            android:focusableInTouchMode="false"
+            android:gravity="left|top"
+            android:padding="4dp">
+
+            <TextView
+                android:id="@+id/notifier_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#FFFFFFFF"/>
+
+        </org.cyanogenmod.focal.ui.Notifier>
+
+    </FrameLayout>
+
+    <org.cyanogenmod.focal.ui.ReviewDrawer
+        android:id="@+id/review_drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginBottom="72dp"
+        android:background="#CC000000"
+        android:visibility="gone">
+
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/reviewed_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/drawer_border"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:contentDescription="@string/app_name"
+            android:minHeight="400dp"
+            android:padding="8dp"/>
+
+        <ImageButton
+            android:id="@+id/button_open_in_gallery"
+            style="@android:style/Widget.DeviceDefault.Light.Button.Borderless.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/button_retouch"
+            android:background="@drawable/review_drawer_button"
+            android:src="@drawable/ic_gallery"/>
+
+        <ImageButton
+            android:id="@+id/button_retouch"
+            style="@android:style/Widget.DeviceDefault.Button.Borderless.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/review_drawer_button"
+            android:src="@drawable/ic_retouch"
+            android:textColor="@color/clock_white"
+            android:visibility="gone"/>
+
+        <TextView android:id="@+id/look" android:layout_width="80dp"
+                  android:layout_height="35dp" android:layout_alignParentBottom="true"
+                  android:layout_centerHorizontal="true"
+                  android:layout_marginBottom="35dp"
+                  android:background="@color/clock_red"
+                  android:gravity="center"
+                  android:text="查看图片"
+                  android:textColor="@color/clock_white"
+                  android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/drawer_border"
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="0"
+            android:background="#FF0099cc"/>
+
+    </org.cyanogenmod.focal.ui.ReviewDrawer>
+
+    <Button
+        android:id="@+id/btn_picsphere_undo"
+        style="@android:style/Widget.Holo.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:drawableRight="@drawable/ic_picsphere_undo"
+        android:src="@drawable/ic_picsphere_undo"
+        android:text="@string/picsphere_undo_button"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/txt_helper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="18dp"
+        android:shadowColor="#666666"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="12"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+</FrameLayout>

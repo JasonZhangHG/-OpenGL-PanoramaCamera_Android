@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hardware_hdr_keys" translatable="false">
+        <item>ae-bracket-hdr</item>
+    </string-array>
+    <string-array name="transformer_timer_voice_words">
+        <item>cid</item>
+        <item>civ</item>
+        <item>whisky</item>
+        <item>whiskey</item>
+        <item>cheese</item>
+        <item>ok cid, take a picture</item>
+    </string-array>
+    <string-array name="widget_autoexposure_hints">
+        <item>Frame average</item>
+        <item>Center weighted</item>
+        <item>Spot metering</item>
+    </string-array>
+    <array name="widget_autoexposure_icons" translatable="false">
+        <item>@drawable/ic_widget_autoexposure_frameaverage</item>
+        <item>@drawable/ic_widget_autoexposure_centerweighted</item>
+        <item>@drawable/ic_widget_autoexposure_spotmetering</item>
+    </array>
+    <string-array name="widget_autoexposure_values" translatable="false">
+        <item>frame-average</item>
+        <item>center-weighted</item>
+        <item>spot-metering</item>
+    </string-array>
+    <string-array name="widget_effects_hints">
+        <item>Disabled</item>
+        <item>Black &amp; White</item>
+        <item>Negative</item>
+        <item>Solarize</item>
+        <item>Sepia</item>
+        <item>Posterize</item>
+        <item>Blackboard</item>
+        <item>Whiteboard</item>
+        <item>Aqua</item>
+        <item>Emboss</item>
+        <item>Sketch</item>
+        <item>Neon</item>
+    </string-array>
+    <array name="widget_effects_icons" translatable="false">
+        <item>@drawable/ic_widget_effect_none</item>
+        <item>@drawable/ic_widget_effect_mono</item>
+        <item>@drawable/ic_widget_effect_negative</item>
+        <item>@drawable/ic_widget_effect_solarize</item>
+        <item>@drawable/ic_widget_effect_sepia</item>
+        <item>@drawable/ic_widget_effect_posterize</item>
+        <item>@drawable/ic_widget_effect_blackboard</item>
+        <item>@drawable/ic_widget_effect_whiteboard</item>
+        <item>@drawable/ic_widget_effect_aqua</item>
+        <item>@drawable/ic_widget_effect_emboss</item>
+        <item>@drawable/ic_widget_effect_sketch</item>
+        <item>@drawable/ic_widget_effect_neon</item>
+    </array>
+    <string-array name="widget_effects_values" translatable="false">
+        <item>none</item>
+        <item>mono</item>
+        <item>negative</item>
+        <item>solarize</item>
+        <item>sepia</item>
+        <item>posterize</item>
+        <item>blackboard</item>
+        <item>whiteboard</item>
+        <item>aqua</item>
+        <item>emboss</item>
+        <item>sketch</item>
+        <item>neon</item>
+    </string-array>
+    <string-array name="widget_flash_hints">
+        <item>Auto</item>
+        <item>Disabled</item>
+        <item>Enabled</item>
+        <item>Torch</item>
+        <item>Red-eye reduction</item>
+    </string-array>
+    <array name="widget_flash_icons" translatable="false">
+        <item>@drawable/ic_widget_flash_auto</item>
+        <item>@drawable/ic_widget_flash_off</item>
+        <item>@drawable/ic_widget_flash_on</item>
+        <item>@drawable/ic_widget_flash_torch</item>
+        <item>@drawable/ic_widget_flash_redeye</item>
+    </array>
+    <string-array name="widget_flash_values" translatable="false">
+        <item>auto</item>
+        <item>off</item>
+        <item>on</item>
+        <item>torch</item>
+        <item>red-eye</item>
+    </string-array>
+    <string-array name="widget_iso_hints" translatable="false">
+        <item>@string/iso_hint_auto</item>
+        <item>@string/iso_hint_hjr</item>
+        <item>@string/iso_hint_100</item>
+        <item>@string/iso_hint_200</item>
+        <item>@string/iso_hint_400</item>
+        <item>@string/iso_hint_800</item>
+        <item>@string/iso_hint_1600</item>
+    </string-array>
+    <array name="widget_iso_icons" translatable="false">
+        <item>@drawable/ic_widget_iso_auto</item>
+        <item>@drawable/ic_widget_iso_hjr</item>
+        <item>@drawable/ic_widget_iso_100</item>
+        <item>@drawable/ic_widget_iso_200</item>
+        <item>@drawable/ic_widget_iso_400</item>
+        <item>@drawable/ic_widget_iso_800</item>
+        <item>@drawable/ic_widget_iso_1600</item>
+    </array>
+    <string-array name="widget_iso_values" translatable="false">
+        <item>auto</item>
+        <item>ISO_HJR</item>
+        <item>ISO100</item>
+        <item>ISO200</item>
+        <item>ISO400</item>
+        <item>ISO800</item>
+        <item>ISO1600</item>
+    </string-array>
+    <string-array name="widget_scenemode_hints">
+        <item>Automatic</item>
+        <item>Motion Blur Reduction</item>
+        <item>Augmented Reality</item>
+        <item>Best Shot</item>
+        <item>Baby</item>
+        <item>Backlight</item>
+        <item>Portrait Backlight</item>
+        <item>Barcode</item>
+        <item>Beach</item>
+        <item>Candlelight</item>
+        <item>Dark</item>
+        <item>Dish</item>
+        <item>Document</item>
+        <item>Fireworks</item>
+        <item>Flowers</item>
+        <item>Handheld Twilight</item>
+        <item>HDR</item>
+        <item>High sensitivity</item>
+        <item>Landscape</item>
+        <item>Night</item>
+        <item>Night portrait</item>
+        <item>Night portrait</item>
+        <item>Party</item>
+        <item>Pet</item>
+        <item>Portrait</item>
+        <item>Snow</item>
+        <item>Soft skin</item>
+        <item>Sports</item>
+        <item>Spotlight</item>
+        <item>Steady photo</item>
+        <item>Sunset</item>
+        <item>Sweep stitch</item>
+        <item>Theatre</item>
+    </string-array>
+    <array name="widget_scenemode_icons" translatable="false">
+        <item>@drawable/ic_widget_scenemode_auto</item>
+        <item>@drawable/ic_widget_scenemode_antimotionblur</item>
+        <item>@drawable/ic_widget_scenemode_ar</item>
+        <item>@drawable/ic_widget_scenemode_asd</item>
+        <item>@drawable/ic_widget_scenemode_baby</item>
+        <item>@drawable/ic_widget_scenemode_backlight</item>
+        <item>@drawable/ic_widget_scenemode_backlightportrait</item>
+        <item>@drawable/ic_widget_scenemode_barcode</item>
+        <item>@drawable/ic_widget_scenemode_beach</item>
+        <item>@drawable/ic_widget_scenemode_candlelight</item>
+        <item>@drawable/ic_widget_scenemode_dark</item>
+        <item>@drawable/ic_widget_scenemode_dish</item>
+        <item>@drawable/ic_widget_scenemode_document</item>
+        <item>@drawable/ic_widget_scenemode_fireworks</item>
+        <item>@drawable/ic_widget_scenemode_flowers</item>
+        <item>@drawable/ic_widget_scenemode_handheld</item>
+        <item>@drawable/ic_widget_scenemode_hdr</item>
+        <item>@drawable/ic_widget_scenemode_highsensitivity</item>
+        <item>@drawable/ic_widget_scenemode_landscape</item>
+        <item>@drawable/ic_widget_scenemode_night</item>
+        <item>@drawable/ic_widget_scenemode_nightportrait</item>
+        <item>@drawable/ic_widget_scenemode_nightportrait</item>
+        <item>@drawable/ic_widget_scenemode_party</item>
+        <item>@drawable/ic_widget_scenemode_pet</item>
+        <item>@drawable/ic_widget_scenemode_portrait</item>
+        <item>@drawable/ic_widget_scenemode_snow</item>
+        <item>@drawable/ic_widget_scenemode_softskin</item>
+        <item>@drawable/ic_widget_scenemode_sports</item>
+        <item>@drawable/ic_widget_scenemode_spotlight</item>
+        <item>@drawable/ic_widget_scenemode_steadyphoto</item>
+        <item>@drawable/ic_widget_scenemode_sunset</item>
+        <item>@drawable/ic_widget_scenemode_sweepstitch</item>
+        <item>@drawable/ic_widget_scenemode_theatre</item>
+    </array>
+    <string-array name="widget_scenemode_values" translatable="false">
+        <item>auto</item>
+        <item>anti-motion-blur</item>
+        <item>AR</item>
+        <item>asd</item>
+        <item>baby</item>
+        <item>backlight</item>
+        <item>backlight-portrait</item>
+        <item>barcode</item>
+        <item>beach</item>
+        <item>candlelight</item>
+        <item>dark</item>
+        <item>dish</item>
+        <item>document</item>
+        <item>fireworks</item>
+        <item>flowers</item>
+        <item>handheld-twilight</item>
+        <item>hdr</item>
+        <item>high-sensitivity</item>
+        <item>landscape</item>
+        <item>night</item>
+        <item>nightportrait</item>
+        <item>night-portrait</item>
+        <item>party</item>
+        <item>pet</item>
+        <item>portrait</item>
+        <item>snow</item>
+        <item>soft-skin</item>
+        <item>sports</item>
+        <item>spot-light</item>
+        <item>steadyphoto</item>
+        <item>sunset</item>
+        <item>sweep-stitch</item>
+        <item>theatre</item>
+    </string-array>
+    <string-array name="widget_shutter_speed_display_values" translatable="false">
+        <item>Auto</item>
+        <item>1\"</item>
+        <item>1/2</item>
+        <item>1/4</item>
+        <item>1/8</item>
+        <item>1/16</item>
+        <item>1/32</item>
+        <item>1/100</item>
+        <item>1/125</item>
+        <item>1/250</item>
+        <item>1/500</item>
+        <item>1/1000</item>
+        <item>1/2000</item>
+        <item>1/3333</item>
+    </string-array>
+    <string-array name="widget_whitebalance_hints">
+        <item>Automatic</item>
+        <item>Cloudy</item>
+        <item>Incandescent</item>
+        <item>Fluorescent</item>
+        <item>Daylight</item>
+        <item>Cloudy Daylight</item>
+    </string-array>
+    <array name="widget_whitebalance_icons" translatable="false">
+        <item>@drawable/ic_widget_wb_auto</item>
+        <item>@drawable/ic_widget_wb_cloudy</item>
+        <item>@drawable/ic_widget_wb_incandescent</item>
+        <item>@drawable/ic_widget_wb_fluorescent</item>
+        <item>@drawable/ic_widget_wb_daylight</item>
+        <item>@drawable/ic_widget_wb_cloudy_daylight</item>
+    </array>
+    <string-array name="widget_whitebalance_values" translatable="false">
+        <item>auto</item>
+        <item>cloudy</item>
+        <item>incandescent</item>
+        <item>fluorescent</item>
+        <item>daylight</item>
+        <item>cloudy-daylight</item>
+    </string-array>
+    <bool name="config_qualcommZslCameraMode">true</bool>
+    <bool name="config_stopPreviewBetweenShots">false</bool>
+    <bool name="config_usePreviewForVideoSnapshot">false</bool>
+    <bool name="config_useSamsungHDR">false</bool>
+    <bool name="config_useSamsungZSL">false</bool>
+    <color name="clock_red">#FF4444</color>
+    <color name="clock_white">#FFFFFF</color>
+    <color name="pano_progress_done">#FF33525E</color>
+    <color name="pano_progress_empty">#FF2E2E2E</color>
+    <color name="pano_progress_indication">#FF0099CC</color>
+    <color name="pano_progress_indication_fast">#FFFF2222</color>
+    <color name="pano_saving_done">#FF5E5233</color>
+    <color name="pano_saving_indication">#FF99CC00</color>
+    <color name="review_drawer_button_bg">#88333333</color>
+    <color name="review_drawer_button_pressed">#8833B5E5</color>
+    <color name="widget_background">#AA000000</color>
+    <color name="widget_option_active">#FF33B5E5</color>
+    <color name="widget_toggle_active">#9033B5E5</color>
+    <color name="widget_toggle_pressed">#BB33B5E5</color>
+    <declare-styleable name="BigImageView"><attr format="enum" name="initScaleType"><enum name="centerInside" value="1"/><enum name="centerCrop" value="2"/><enum name="auto" value="3"/></attr><attr format="boolean" name="optimizeDisplay"/></declare-styleable>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable>
+    <declare-styleable name="CustomTheme"><attr format="reference" name="showcaseViewStyle"/></declare-styleable>
+    <declare-styleable name="ShowcaseView"><attr format="color|reference" name="sv_backgroundColor"/><attr format="color|reference" name="sv_detailTextColor"/><attr format="color|reference" name="sv_titleTextColor"/><attr format="color|reference" name="sv_buttonBackgroundColor"/><attr format="color|reference" name="sv_buttonForegroundColor"/><attr format="string|reference" name="sv_buttonText"/></declare-styleable>
+    <declare-styleable name="SubsamplingScaleImageView"><attr format="reference" name="src"/><attr format="string" name="assetName"/><attr format="boolean" name="panEnabled"/><attr format="boolean" name="zoomEnabled"/><attr format="boolean" name="quickScaleEnabled"/><attr format="color" name="tileBackgroundColor"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="circletimer_circle_size">4dip</dimen>
+    <dimen name="circletimer_diamond_size">6dip</dimen>
+    <dimen name="circletimer_marker_size">16dip</dimen>
+    <dimen name="review_drawer_thumb_size">96dp</dimen>
+    <dimen name="ringpad_edge_spacing">32dp</dimen>
+    <dimen name="ringpad_radius">140dp</dimen>
+    <dimen name="timer_circle_diameter">100dip</dimen>
+    <dimen name="timer_circle_width">125dip</dimen>
+    <dimen name="widget_container_padding">1dp</dimen>
+    <dimen name="widget_option_button_padding">4dp</dimen>
+    <dimen name="widget_option_button_size">64dp</dimen>
+    <dimen name="widget_spacing">8dp</dimen>
+    <dimen name="widget_toggle_button_padding">8dp</dimen>
+    <item name="showcase_button" type="id"/>
+    <item name="showcase_sub_text" type="id"/>
+    <item name="showcase_title_text" type="id"/>
+    <integer name="config_maxTextureSize">4096</integer>
+    <integer name="config_panoramaDefaultHeight">720</integer>
+    <integer name="config_panoramaDefaultWidth">1280</integer>
+    <integer name="widget_default_max_width">3</integer>
+    <integer name="widget_option_label_font_size">12</integer>
+    <integer name="widget_option_label_font_size_small">10</integer>
+    <string name="app_name">全景相机</string>
+    <string name="cannot_connect_hal">Unable to connect to camera</string>
+    <string name="disabled">Disabled</string>
+    <string name="double_tap_to_snapshot">Double-tap to take a picture</string>
+    <string name="enabled">Enabled</string>
+    <string name="fullscreen_shutter_info">Tap anywhere to shoot</string>
+    <string name="iso_hint_100">100 ISO</string>
+    <string name="iso_hint_1600">1600 ISO</string>
+    <string name="iso_hint_200">200 ISO</string>
+    <string name="iso_hint_400">400 ISO</string>
+    <string name="iso_hint_800">800 ISO</string>
+    <string name="iso_hint_auto">Automatic ISO</string>
+    <string name="iso_hint_hjr">Hands-Jitter Reduction ISO</string>
+    <string name="launch_app">Launch Focal</string>
+    <string name="mode_panorama">Panorama</string>
+    <string name="mode_photo">Photo</string>
+    <string name="mode_picsphere">PicSphere</string>
+    <string name="mode_switchcam">Facing</string>
+    <string name="mode_video">Video</string>
+    <string name="no_gles20_support">Your device doesn\'t support GLES2</string>
+    <string name="no_gyroscope">Your device doesn\'t have a gyroscope</string>
+    <string name="no_video_player">Couldn\'t play the video, no player found</string>
+    <string name="ok">OK</string>
+    <string name="open_in_gallery">GALLERY</string>
+    <string name="pano_file_name_format" translatable="false">"'PANO'_yyyyMMdd_HHmmss"</string>
+    <string name="pano_panorama_rendering">正在合成全景图片\u2026</string>
+    <string name="pano_panorama_rendering_failed">Failed to render panorama.\nTry to take a shorter one.</string>
+    <string name="picsphere_already_rendering">Please wait for the current PicSphere to render</string>
+    <string name="picsphere_failed">PicSphere rendering failed</string>
+    <string name="picsphere_failed_details">Make sure pictures only overlap on their edges.</string>
+    <string name="picsphere_need_two_pics">You need at least two pictures.</string>
+    <string name="picsphere_notif_title">Rendering PicSphere\u2026</string>
+    <string name="picsphere_rendering_progress">Rendering\u2026 (%d %%)</string>
+    <string name="picsphere_start_hint">Take a picture to start a sphere</string>
+    <string name="picsphere_step_autooptimiser">Aligning images\u2026</string>
+    <string name="picsphere_step_cpfind">Finding control points\u2026</string>
+    <string name="picsphere_step_enblend">Blending pictures\u2026</string>
+    <string name="picsphere_step_nona">Stitching pictures\u2026</string>
+    <string name="picsphere_step_panomodify">Cropping empty areas\u2026</string>
+    <string name="picsphere_step_preparing">Preparing\u2026</string>
+    <string name="picsphere_step_ptclean">Cleaning points\u2026</string>
+    <string name="picsphere_step_ptogen">Generating metadata\u2026</string>
+    <string name="picsphere_step_ptovar">Writing camera orientation\u2026</string>
+    <string name="picsphere_toast_background_render">Rendering started\u2026</string>
+    <string name="picsphere_undo_button">UNDO</string>
+    <string name="please_wait">Please wait\u2026</string>
+    <string name="ps_long_press_to_stop">Long-press the shutter button to\nfinish your sphere.</string>
+    <string name="recording">Recording</string>
+    <string name="retouch">RETOUCH</string>
+    <string name="showcase_panorama_body">Tap the shutter to start your panorama,\nthen pan what you want to capture.\nOnce done, tap the shutter button again.</string>
+    <string name="showcase_panorama_title">Panorama mode</string>
+    <string name="showcase_picsphere_body">Align your first picture where you like,\nthen tap the shutter to take each picture\nof the sphere. The blue dots are points\nof reference you can follow.\nLong-press the shutter once you\'re done.</string>
+    <string name="showcase_picsphere_title">PicSphere mode</string>
+    <string name="showcase_welcome_1_body">The options are in the sidebar,\njust slide it.</string>
+    <string name="showcase_welcome_1_title">Welcome!</string>
+    <string name="showcase_welcome_2_body">Tap the shutter button to take a picture.\nSlide it to access other capture modes.</string>
+    <string name="showcase_welcome_2_title">Shutter button</string>
+    <string name="shutter_button">Shutter button</string>
+    <string name="software_hdr_failed">HDR rendering failed</string>
+    <string name="software_hdr_failed_details">The source pictures have been kept.</string>
+    <string name="software_hdr_notif_title">Computing HDR picture\u2026</string>
+    <string name="video_res_1080p">Full HD (1080p)</string>
+    <string name="video_res_480p">SD (480p)</string>
+    <string name="video_res_720p">HD (720p)</string>
+    <string name="video_res_mms">MMS (288p)</string>
+    <string name="widget_autoexposure">Light measure</string>
+    <string name="widget_burstmode">Burst mode</string>
+    <string name="widget_burstmode_count_shots">Burst %d shots</string>
+    <string name="widget_burstmode_infinite">Infinite burst</string>
+    <string name="widget_burstmode_off">Disable burst mode</string>
+    <string name="widget_effect">Effects</string>
+    <string name="widget_enhancements">Color adjust.</string>
+    <string name="widget_exposure_compensation">Exposure comp.</string>
+    <string name="widget_flash">Flash</string>
+    <string name="widget_hdr">High Dynamic Range</string>
+    <string name="widget_hdr_aebracket">Auto bracketing</string>
+    <string name="widget_iso">ISO</string>
+    <string name="widget_scenemode">Scene mode</string>
+    <string name="widget_settings">Settings</string>
+    <string name="widget_settings_autoenhance">Auto-enhancement</string>
+    <string name="widget_settings_choose_widgets">Choose widgets in the sidebar</string>
+    <string name="widget_settings_choose_widgets_button">Choose widgets</string>
+    <string name="widget_settings_exposure_ring">Show exposure ring</string>
+    <string name="widget_settings_picture_size">Image size</string>
+    <string name="widget_settings_ruleofthirds">Rule of Thirds</string>
+    <string name="widget_shutter_speed">Shutter speed</string>
+    <string name="widget_skintone">Skin Tone Enhancement</string>
+    <string name="widget_softwarehdr">High Dynamic Range</string>
+    <string name="widget_timermode">Timer mode</string>
+    <string name="widget_videofr">Video framerate</string>
+    <string name="widget_videohdr">Video High Dynamic Range</string>
+    <string name="widget_whitebalance">White balance</string>
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar.Fullscreen">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="ShowcaseButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:paddingLeft">35dp</item>
+        <item name="android:paddingRight">35dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@drawable/cling_button_bg</item>
+    </style>
+    <style name="ShowcaseText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">2.0</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="ShowcaseTitleText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#49C0EC</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="ShowcaseView">
+        <item name="sv_titleTextColor">#33B5E5</item>
+        <item name="sv_detailTextColor">#FFFFFF</item>
+        <item name="sv_backgroundColor">#BB333333</item>
+        <item name="sv_buttonText">@string/ok</item>
+    </style>
+    <style name="ShowcaseView.Light">
+        <item name="sv_titleTextColor">#33B5E5</item>
+        <item name="sv_detailTextColor">#444</item>
+        <item name="sv_backgroundColor">#3333B5E5</item>
+        <item name="sv_buttonText">@string/ok</item>
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\picsphere_sky_rt.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-nodpi\\picsphere_sky_rt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\picsphere_sky_up.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-nodpi\\picsphere_sky_up.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\picsphere_sky_lt.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-nodpi\\picsphere_sky_lt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\picsphere_sky_dn.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-nodpi\\picsphere_sky_dn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\picsphere_sky_fr.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-nodpi\\picsphere_sky_fr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\picsphere_sky_bk.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\PanoramaCamera-master\\app\\src\\main\\res\\drawable-nodpi\\picsphere_sky_bk.jpg"
+    }
+]
